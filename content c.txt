@@ -1,0 +1,15 @@
+ Employee RECORD System IN C language program.
+With this Employee record System we can manage the details of the employees working in a company or organization. 
+You get the idea of this project as soon as you hear the name itself, file handling method is followed here to store the data in a specific file. 
+
+Insert, Edit, and Delete file operations are used in this project, but the limitation of this project is 
+that you can only list the data but cannot search for any data item in particular. 
+
+This Projects contains below modules:
+Add Employee Details
+list Employee details
+Modify Employee
+Delete Employee
+Conclusion: In this C Projects source code series we create employee Record system 
+We can manage the details of the employees working in a company or organization. 
+You get the idea of this project the name itself, file handling method is followed here to store the data in a specific file
